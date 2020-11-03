@@ -1,16 +1,23 @@
-### Hi there 👋
+### Bonjour 👋
 
-<!--
-**asineth0/asineth0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No, I don't speak French.
 
-Here are some ideas to get you started:
+#### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [checkn1x](https://github.com/asineth0/checkn1x)
+
+  Linux-based distribution for jailbreaking iOS devices.
+  
+* [Selfbot](https://github.com/asineth0/selfbot)
+
+  Lightweight and extensible bot for Discord user accounts.
+  
+* [Moto G8 Roms](https://asineth.ml/post/android-rav/)
+
+  LineageOS & Pixel Experience for the Moto G8/G8 Power.
+
+#### Contact
+
+* Email: asineth@pm.me
+* Telegram: https://t.me/asineth0
+* Discord: https://discord.gg/6Skatc7tE7
