@@ -26,6 +26,8 @@
                                             `\/'
 ```
 
+Standards are human bottlenecks.
+
 #### Projects
 
 * [checkn1x](https://github.com/asineth0/checkn1x)
