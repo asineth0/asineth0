@@ -38,7 +38,7 @@ Standards are human bottlenecks.
 
   Lightweight and extensible bot for Discord user accounts.
   
-* [Moto G8 Roms](https://asineth.ml/post/android-rav/)
+* [Moto G8 Roms](https://asineth.me/post/android-rav/)
 
   LineageOS & Pixel Experience for the Moto G8/G8 Power.
 
