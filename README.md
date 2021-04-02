@@ -30,6 +30,10 @@ Standards are human bottlenecks.
 
 #### Projects
 
+* [Hyalus](https://hyalus.xyz)
+
+  Talk on a open platform with encrypted messages & calls.
+
 * [checkn1x](https://github.com/asineth0/checkn1x)
 
   Linux-based distribution for jailbreaking iOS devices.
@@ -46,4 +50,5 @@ Standards are human bottlenecks.
 
 * Email: asineth@pm.me
 * Telegram: https://t.me/asineth0
-* Discord: https://discord.gg/6Skatc7tE7
+* Discord: Asineth#0741
+* Hyalus: @asineth
