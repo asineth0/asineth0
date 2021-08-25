@@ -30,7 +30,7 @@ Standards are human bottlenecks.
 
 #### Projects
 
-* [Hyalus](https://hyalus.xyz)
+* [Hyalus](https://hyalus.app)
 
   Talk on a open platform with encrypted messages & calls.
 
@@ -48,7 +48,7 @@ Standards are human bottlenecks.
 
 #### Contact
 
+* Hyalus: [@asineth0](https://hyalus.app/add/asineth0)
 * Email: asineth@pm.me
-* Telegram: https://t.me/asineth0
-* Discord: Asineth#0741
-* Hyalus: @asineth
+* Telegram: [@asineth0](https://t.me/asineth0)
+* Discord: Asineth#9999
