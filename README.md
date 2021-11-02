@@ -51,4 +51,4 @@ Standards are human bottlenecks.
 * Hyalus: [@asineth0](https://hyalus.app/add/asineth0)
 * Email: asineth@pm.me
 * Telegram: [@asineth0](https://t.me/asineth0)
-* Discord: Asineth#9999
+* Discord: Asineth#9959
