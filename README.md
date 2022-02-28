@@ -49,6 +49,6 @@ Standards are human bottlenecks.
 #### Contact
 
 * Hyalus: [@asineth0](https://hyalus.app/add/asineth0)
-* Email: asineth@pm.me
+* Email: asineth@atriplex.co
 * Telegram: [@asineth0](https://t.me/asineth0)
-* Discord: Asineth#9959
+* Discord: Asineth#8867
