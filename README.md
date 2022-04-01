@@ -38,13 +38,29 @@ Standards are human bottlenecks.
 
   Linux-based distribution for jailbreaking iOS devices.
   
+* [Moto G8 Roms](https://asineth.me/posts/g8-roms)
+
+  LineageOS & Pixel Experience for the Moto G8/G8 Power.
+  
 * [Selfbot](https://github.com/asineth0/selfbot)
 
   Lightweight and extensible bot for Discord user accounts.
   
-* [Moto G8 Roms](https://asineth.me/post/android-rav/)
+* [mcatool](https://github.com/asineth0/mcatool)
 
-  LineageOS & Pixel Experience for the Moto G8/G8 Power.
+  Tool w/ a domain-specific compression algorithm for Minecraft saves.
+
+* [wg-manage](https://github.com/asineth0/wg-manage)
+
+  Scripts for managing a WireGuard VPN tunnel.
+
+* [ovpnmgr](https://github.com/asineth0/ovpnmgr)
+
+  Scripts for managing an OpenVPN server. (Unmaintained)
+  
+* [WebRec](https://github.com/asineth0/webrec)
+
+  Simple no-nonsense screen recording utiliy as a web app.
 
 #### Contact
 
